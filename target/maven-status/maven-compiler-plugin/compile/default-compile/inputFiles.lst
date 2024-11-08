@@ -1,4 +1,28 @@
-C:\Users\theob\Documents\Formation\CDA_AOUT_2024\Java\foreach\src\main\java\com\example\App.java
-C:\Users\theob\Documents\Formation\CDA_AOUT_2024\Java\foreach\src\main\java\com\example\controller\UserController.java
-C:\Users\theob\Documents\Formation\CDA_AOUT_2024\Java\foreach\src\main\java\com\example\config\AppConfig.java
-C:\Users\theob\Documents\Formation\CDA_AOUT_2024\Java\foreach\src\main\java\com\example\model\User.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/wrappers/UEWrapper.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/controller/UserController.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/model/Formateur.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/controller/CoursController.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/controller/UEController.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/model/User.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/model/Etudiant.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/controller/AbsencesController.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/wrappers/CoursWrapper.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/services/CoursService.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/services/FormateurService.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/model/Absences.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/services/SuivreService.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/wrappers/EtudiantWrapper.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/wrappers/FormateurWrapper.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/wrappers/SuivreWrapper.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/services/UEService.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/services/AbsencesService.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/services/EtudiantService.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/App.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/config/AppConfig.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/controller/EtudiantController.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/model/Suivre.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/model/Cours.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/controller/FormateurController.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/controller/SuivreController.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/wrappers/AbsencesWrapper.java
+/Volumes/Mac SD/DEV/Foreach Academy/JAVA/squelette-tomcat-kava/src/main/java/com/example/model/UE.java
